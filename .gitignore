@@ -1,4 +1,16 @@
-backend/venv/
-backend/__pycache__/
-backend/.env
+# Python
+venv/
+__pycache__/
 *.pyc
+.env
+
+# Node
+node_modules/
+dist/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
